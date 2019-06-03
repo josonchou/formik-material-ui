@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Switch Renders Correctly 1`] = `
+<form
+  onReset={[Function]}
+  onSubmit={[Function]}
+>
+  <span
+    className="MuiSwitch-root"
+  >
+    <span
+      aria-disabled={false}
+      className="MuiButtonBase-root MuiIconButton-root PrivateSwitchBase-root-12 MuiSwitch-switchBase MuiSwitch-colorSecondary"
+      label="Text"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={null}
+    >
+      <span
+        className="MuiIconButton-label"
+      >
+        <span
+          className="MuiSwitch-thumb"
+        />
+        <input
+          className="PrivateSwitchBase-input-15 MuiSwitch-input"
+          disabled={false}
+          name="test"
+          onChange={[Function]}
+          type="checkbox"
+          value="test"
+        />
+      </span>
+    </span>
+    <span
+      className="MuiSwitch-track"
+    />
+  </span>
+</form>
+`;
