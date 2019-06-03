@@ -1,6 +1,6 @@
 {
-  "name": "formik-meyup-material-ui",
-  "version": "0.0.20",
+  "name": "formik-material-ui",
+  "version": "0.0.18",
   "typings": "dist/main.d.ts",
   "peerDependencies": {
     "@material-ui/core": ">=4.0.0",
@@ -100,5 +100,5 @@
     "prepublishOnly": "yarn prettier && yarn test && yarn build && yarn package && yarn build-storybook",
     "publish": "lerna publish"
   },
-  "gitHead": "8ce9d1adde3a3932c3ec2079b0a0ea15722c89fb"
+  "gitHead": "78e367660b65605d8bfe50f635265336ad93c19f"
 }
