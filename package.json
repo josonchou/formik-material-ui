@@ -1,5 +1,5 @@
 {
-  "name": "formik-material-ui",
+  "name": "formik-meyup-material-ui",
   "version": "0.0.18",
   "typings": "dist/main.d.ts",
   "peerDependencies": {
