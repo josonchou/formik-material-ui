@@ -24,7 +24,7 @@ export const fieldToCheckbox = ({
     ...field,
     // TODO handle indeterminate
     checked: field.value,
-    value: field.value ? 'checked' : '',
+    value: field.value ? Boolean('checked') : Boolean(''),
   };
 };
 
