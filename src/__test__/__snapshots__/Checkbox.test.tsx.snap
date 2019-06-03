@@ -42,7 +42,7 @@ exports[`Checkbox Renders Correctly 1`] = `
         name="test"
         onChange={[Function]}
         type="checkbox"
-        value=""
+        value={false}
       />
     </span>
   </span>
