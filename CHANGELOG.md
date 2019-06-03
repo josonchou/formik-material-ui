@@ -1,3 +1,6 @@
+## 0.0.19
+- Fixed Checkbox 
+
 ## 0.0.16
 
 - Fixed TextField select variation
