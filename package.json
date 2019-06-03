@@ -100,5 +100,5 @@
     "prepublishOnly": "yarn prettier && yarn test && yarn build && yarn package && yarn build-storybook",
     "publish": "lerna publish"
   },
-  "gitHead": "78e367660b65605d8bfe50f635265336ad93c19f"
+  "gitHead": "8ce9d1adde3a3932c3ec2079b0a0ea15722c89fb"
 }
